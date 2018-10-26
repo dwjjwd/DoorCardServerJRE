@@ -1,0 +1,8 @@
+2018-08-27 11:40:52,810 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:85) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666
+2018-08-27 14:34:59,576 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:85) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666
+2018-08-27 15:08:41,932 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 1000
+2018-08-27 15:08:50,435 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭
+2018-08-27 15:09:37,788 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 1000
+2018-08-27 15:12:02,176 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭
+2018-08-27 15:12:04,338 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 8888超时[秒]为 10
+2018-08-27 15:12:21,747 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭

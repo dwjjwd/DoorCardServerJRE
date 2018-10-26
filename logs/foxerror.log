@@ -1,0 +1,43 @@
+2018-10-26 13:45:54,020 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 10
+2018-10-26 13:46:02,067 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭
+2018-10-26 13:53:14,908 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 10
+2018-10-26 14:55:39,915 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 10
+2018-10-26 14:57:36,986 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 10
+2018-10-26 15:04:28,138 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onConnect(DoorCardHandler.java:65) - 建立与客户端的连接, 远程ip是[127.0.0.1], 远程端口是[49677]
+2018-10-26 15:04:28,150 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onData(DoorCardHandler.java:38) - 获得客户端数据为
+{"method":"readcard","data":{"arr":1524465784000,"accnt":"F1803210006","roomno":"3003","num":1,"resno":"1803210002","name":"01","mobile":"13735591555","hall":"A","cardtype":"new","doorno":"","flr":"03","dep":1524653580000}}
+2018-10-26 15:08:20,165 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭
+2018-10-26 15:08:32,362 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 10
+2018-10-26 15:08:34,918 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onConnect(DoorCardHandler.java:65) - 建立与客户端的连接, 远程ip是[127.0.0.1], 远程端口是[49731]
+2018-10-26 15:08:34,926 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onData(DoorCardHandler.java:38) - 获得客户端数据为
+{"method":"readcard","data":{"arr":1524465784000,"accnt":"F1803210006","roomno":"3003","num":1,"resno":"1803210002","name":"01","mobile":"13735591555","hall":"A","cardtype":"new","doorno":"","flr":"03","dep":1524653580000}}
+2018-10-26 15:08:34,998 [ INFO] com.foxhis.itf.doorcardimpl.DoorCardChuangJiaImpl.readCard(DoorCardChuangJiaImpl.java:84) - 开始读卡
+2018-10-26 15:10:43,240 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭
+2018-10-26 15:10:45,518 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 10
+2018-10-26 15:10:47,511 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onConnect(DoorCardHandler.java:65) - 建立与客户端的连接, 远程ip是[127.0.0.1], 远程端口是[49757]
+2018-10-26 15:10:47,517 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onData(DoorCardHandler.java:38) - 获得客户端数据为
+{"method":"readcard","data":{"arr":1524465784000,"accnt":"F1803210006","roomno":"3003","num":1,"resno":"1803210002","name":"01","mobile":"13735591555","hall":"A","cardtype":"new","doorno":"","flr":"03","dep":1524653580000}}
+2018-10-26 15:10:47,590 [ INFO] com.foxhis.itf.doorcardimpl.DoorCardChuangJiaImpl.readCard(DoorCardChuangJiaImpl.java:84) - 开始读卡
+2018-10-26 15:10:48,062 [ INFO] com.foxhis.itf.doorcardimpl.DoorCardChuangJiaImpl.init(DoorCardChuangJiaImpl.java:72) - doorcard配置参数softtype或者softpath不能为空
+2018-10-26 15:10:48,063 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onData(DoorCardHandler.java:57) - 返回给客户端的数据为
+{result=false, msg=接口初始化失败}
+2018-10-26 15:14:29,066 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭
+2018-10-26 15:15:08,883 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 10
+2018-10-26 15:15:11,759 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onConnect(DoorCardHandler.java:65) - 建立与客户端的连接, 远程ip是[127.0.0.1], 远程端口是[49804]
+2018-10-26 15:15:11,762 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onData(DoorCardHandler.java:38) - 获得客户端数据为
+{"method":"readcard","data":{"arr":1524465784000,"accnt":"F1803210006","roomno":"3003","num":1,"resno":"1803210002","name":"01","mobile":"13735591555","hall":"A","cardtype":"new","doorno":"","flr":"03","dep":1524653580000}}
+2018-10-26 15:15:11,838 [ INFO] com.foxhis.itf.doorcardimpl.DoorCardChuangJiaImpl.readCard(DoorCardChuangJiaImpl.java:84) - 开始读卡
+2018-10-26 15:15:11,936 [ INFO] com.foxhis.itf.doorcardimpl.DoorCardChuangJiaImpl.init(DoorCardChuangJiaImpl.java:72) - doorcard配置参数softtype或者softpath不能为空
+2018-10-26 15:15:11,936 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onData(DoorCardHandler.java:57) - 返回给客户端的数据为
+{result=false, msg=接口初始化失败}
+2018-10-26 15:17:15,262 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭
+2018-10-26 15:17:17,047 [ INFO] com.foxhis.itf.doorcard.Main.main(Main.java:87) - 接口服务程序启动，监听地址 127.0.0.1监听端口 6666超时[秒]为 10
+2018-10-26 15:17:19,546 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onConnect(DoorCardHandler.java:65) - 建立与客户端的连接, 远程ip是[127.0.0.1], 远程端口是[49833]
+2018-10-26 15:17:19,549 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onData(DoorCardHandler.java:38) - 获得客户端数据为
+{"method":"readcard","data":{"arr":1524465784000,"accnt":"F1803210006","roomno":"3003","num":1,"resno":"1803210002","name":"01","mobile":"13735591555","hall":"A","cardtype":"new","doorno":"","flr":"03","dep":1524653580000}}
+2018-10-26 15:17:19,603 [ INFO] com.foxhis.itf.doorcardimpl.DoorCardChuangJiaImpl.readCard(DoorCardChuangJiaImpl.java:84) - 开始读卡
+2018-10-26 15:17:19,702 [ INFO] com.foxhis.itf.doorcardimpl.DoorCardChuangJiaImpl.readCardInternal(DoorCardChuangJiaImpl.java:167) - library=Proxy interface to Native Library <resources/ICDLL.dll@84869120>
+2018-10-26 15:17:19,702 [ INFO] com.foxhis.itf.doorcardimpl.DoorCardChuangJiaImpl.init(DoorCardChuangJiaImpl.java:72) - doorcard配置参数softtype或者softpath不能为空
+2018-10-26 15:17:19,703 [ INFO] com.foxhis.itf.doorcard.DoorCardHandler.onData(DoorCardHandler.java:57) - 返回给客户端的数据为
+{result=false, msg=接口初始化失败}
+2018-10-26 15:44:35,154 [ INFO] com.foxhis.itf.doorcard.Main$3.actionPerformed(Main.java:116) - server服务关闭
