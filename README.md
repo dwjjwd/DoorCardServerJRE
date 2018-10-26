@@ -24,7 +24,7 @@
 
     ItfHandlerUtils---------制定的所有接口类型的方法规范，不用修改，源码可参考
 	
-	<a href=https://github.com/tq835465605/ItfHandlerUtils/>
+	https://github.com/tq835465605/ItfHandlerUtils
 
     DoorCard_Server---------整个接口服务的主框架代码，不用修改，源码可参考
 	
